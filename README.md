@@ -1,10 +1,11 @@
 # Learning-Basics
-A repo for me learning the basics of web dev :)
+A repo for me learning the basics of web dev 
 
 ## Subheader
 
 Woooo
 
-## Local Dev
+## Ligtocal Dev
 1. we're creating a branch.
 2. Hopefully
+not sure
